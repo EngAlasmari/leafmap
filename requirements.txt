@@ -1,1 +1,1 @@
-leafmap==0.9.1
+leafmap==0.9.6
